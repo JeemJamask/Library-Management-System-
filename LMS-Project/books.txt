@@ -1,0 +1,8 @@
+# Books Database
+# Format: title, copies_available
+
+The Murder of Roger Ackroyd 1
+The ABC Murders 1
+And Then There Were None 1
+Murder on the Orient Express 1
+Death on the Nile 2

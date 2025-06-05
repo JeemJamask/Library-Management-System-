@@ -1,0 +1,6 @@
+# Users Database
+# Format: username password role 
+
+Sherlock s123 member 
+Agatha a123 member
+John j123 librarian 
